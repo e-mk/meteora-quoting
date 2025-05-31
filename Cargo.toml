@@ -1,0 +1,13 @@
+[package]
+name = "blaze-meteora-test-task"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+lazy_static = "1.4.0"
+solana-program = "2.1.0"
+solana-client = "2.1.0"
+anchor-lang = "0.31.0"
+anchor-spl = "0.31.0"
+tokio = { version = "1.36", features = ["full"] }
+anyhow = "1.0"
