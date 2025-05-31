@@ -6,7 +6,7 @@ This repository provides a quoting service specifically for Meteora AMM volatile
 
 - Supports only Meteora AMM volatile pools
 - Does not support stable pools or other pool types
-- Focuses on providing accurate quotes for token swaps
+- Focuses on providing accurate quotes for token into pool
 
 ## Setup
 
